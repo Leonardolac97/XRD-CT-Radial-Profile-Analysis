@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Large/raw data and generated outputs
+raw_data/
+processed_data/
+*.h5
+*.hdf5
+*.tif
+*.tiff
+*.npy
+*.npz
+figures/*.png
+figures/*.pdf
+figures/*.svg
+results/*
+!figures/.gitkeep
+!results/.gitkeep

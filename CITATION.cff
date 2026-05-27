@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "XRD-CT Phase Map and Radial Profile Analysis"
+abstract: >-
+  A Jupyter notebook workflow for processing, visualizing, and extracting
+  distance-to-surface radial profiles from spatially resolved X-ray diffraction
+  computed tomography (XRD-CT) phase maps of catalyst pellets. The workflow is
+  designed for beamstop-processed XRD-CT phase maps and includes phase map
+  visualization, pellet mask construction, radial binning, multi-panel radial
+  profile plots, and diagnostic iso-contour plots.
+type: Software
+authors:
+  - family-names: "Almeida de Campos"
+    given-names: "Leonardo"
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+  - family-names: "Lennon Sheppard"
+    given-names: "Thomas"
+    affiliation: "Technische Universität Wien (TUWien)"
+  - family-names: "Grunwaldt"
+    given-names: "Jan-Dierk"
+    affiliation: "Karlsruhe Institute of Technology (KIT)"
+repository-code: "https://github.com/Leonardolac97/"
+license: "MIT"
+version: "1.0.0"
+doi: 
+date-released: "2026-05-27"
+keywords:
+  - XRD-CT
+  - X-ray diffraction computed tomography
+  - radial profile
+  - catalyst pellets
+  - phase maps
+  - catalysis
+  - data analysis
