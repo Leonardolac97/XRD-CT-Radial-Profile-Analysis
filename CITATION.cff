@@ -19,10 +19,10 @@ authors:
   - family-names: "Grunwaldt"
     given-names: "Jan-Dierk"
     affiliation: "Karlsruhe Institute of Technology (KIT)"
-repository-code: "https://github.com/Leonardolac97/XRD-CT-Radial-Profile-Analysis"
+repository-code: "https://github.com/Leonardolac97/XRD-CT-Radial-Profile-Analysis/"
 license: "MIT"
 version: "1.0.0"
-doi: 
+doi: "10.35097/2phu5ftda3ngf41j"
 date-released: "2026-05-27"
 keywords:
   - XRD-CT
